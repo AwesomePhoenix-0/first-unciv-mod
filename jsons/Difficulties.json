@@ -1,1 +1,32 @@
-
+[
+	{
+		"name": "Custom",
+		"baseHappiness": 10,
+		"extraHappinessPerLuxury": 2,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 0.5,
+		"barbarianBonus": 2,
+		"barbarianSpawnDelay": 8,
+		"playerBonusStartingUnits": [], // 6Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
+        "aiDifficultyLevel": "Chieftain",
+		"aiCityGrowthModifier": 1, // that is to say it'll take them 1.6 times as long to grow the city
+		"aiUnitCostModifier": 1,
+		"aiBuildingCostModifier": 1,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 1,
+		"aiUnitMaintenanceModifier": 1,
+		"aiUnitSupplyModifier": 5,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 0.5,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 50
+	}
+]
