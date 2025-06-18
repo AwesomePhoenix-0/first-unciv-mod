@@ -1,35 +1,5 @@
 [
 	{
-		"name": "Custom",
-		"baseHappiness": 9,
-		"extraHappinessPerLuxury": 0,
-		"researchCostModifier": 1,
-		"unitCostModifier": 1,
-		"unitSupplyBase": 5,
-		"unitSupplyPerCity": 2,
-		"buildingCostModifier": 1,
-		"policyCostModifier": 1,
-		"unhappinessModifier": 0.5,
-		"barbarianBonus": 2,
-		"barbarianSpawnDelay": 8,
-		"playerBonusStartingUnits": [], 
-        "aiDifficultyLevel": "Chieftain",
-		"aiCityGrowthModifier": 1, 
-		"aiUnitCostModifier": 1,
-		"aiBuildingCostModifier": 1,
-		"aiWonderCostModifier": 1,
-		"aiBuildingMaintenanceModifier": 1,
-		"aiUnitMaintenanceModifier": 1,
-		"aiUnitSupplyModifier": 5,
-		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [],
-		"aiUnhappinessModifier": 0.5,
-		"aisExchangeTechs": true,
-		"turnBarbariansCanEnterPlayerTiles": 0,
-		"clearBarbarianCampReward": 50
-	},
-	{
 		"name": "Custom2",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
@@ -58,5 +28,5 @@
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
-	},
+	}
 ]
